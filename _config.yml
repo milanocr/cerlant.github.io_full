@@ -1,4 +1,6 @@
 ---
+url: "https://cerlant.github.io/about/"
+baseurl: "/about"
 title: Carmelo Milano
 timezone: UTC
 collections:
@@ -69,4 +71,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: "/tags/"
-baseurl: "/about/"
+
