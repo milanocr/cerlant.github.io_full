@@ -1,10 +1,11 @@
 ---
-title: "Post: Chat"
+title: 'Post: Chat'
+date: 2010-01-08 00:00:00 Z
 categories:
-  - Blog
+- Blog
 tags:
-  - chat
-  - Post Formats
+- chat
+- Post Formats
 ---
 
 Abbott: Strange as it may seem, they give ball players nowadays very peculiar names.
