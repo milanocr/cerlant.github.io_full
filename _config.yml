@@ -25,7 +25,7 @@ defaults:
   values:
     layout: single
     author_profile: true
-url: "https://cerlant.github.io/"
+url: https://cerlant.github.io/
 baseurl: "/about"
 email: 
 description: Write an awesome description for your new site here. You can edit this
