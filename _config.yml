@@ -32,7 +32,7 @@ description: Write an awesome description for your new site here. You can edit t
 twitter_username: 
 github_username: cerlant
 minimal_mistakes_skin: dirt
-search: true
+search: false
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 permalink: "/:categories/:title/"
