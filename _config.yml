@@ -1,6 +1,7 @@
 ---
 title: Carmelo Milano
 timezone: UTC
+collections_dir: collections
 collections:
   posts:
     title: Posts
