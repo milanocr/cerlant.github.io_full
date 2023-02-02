@@ -51,7 +51,7 @@ plugins:
 author:
   name: Carmelo Milano
   avatar: "/assets/images/bio-photo.jpg"
-  bio: Analista de Datos
+  bio: Data Analyst
   links:
   - label: Website
     icon: fas fa-fw fa-link
