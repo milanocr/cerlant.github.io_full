@@ -1,7 +1,6 @@
 ---
 title: Carmelo Milano
 timezone: UTC
-collections_dir: collections
 collections:
   posts:
     title: Posts
@@ -26,6 +25,7 @@ defaults:
   values:
     layout: single
     author_profile: true
+collections_dir: collections
 email: 
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
