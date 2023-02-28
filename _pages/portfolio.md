@@ -5,4 +5,4 @@ permalink: "/portfolio/"
 author_profile: true
 ---
 
-![imagen_2023-01-30_014846194.png](/uploads/imagen_2023-01-30_014846194.png)
+![Covid-19_en_venezuela.png](/uploads/Covid-19_en_venezuela.png)
